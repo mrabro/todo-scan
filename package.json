@@ -1,0 +1,26 @@
+{
+  "name": "todo-scan",
+  "version": "1.0.0",
+  "description": "CLI tool to scan JS/TS files for TODO and FIXME comments",
+  "type": "commonjs",
+  "bin": {
+    "todo-scan": "./todo-scan.js"
+  },
+  "files": [
+    "todo-scan.js"
+  ],
+  "keywords": ["todo", "fixme", "cli", "scanner"],
+  "author": "Rafi Abro <mrafiabro@hotmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mrabro/todo-scan.git"
+  },
+  "homepage": "https://github.com/mrabro/todo-scan#readme",
+  "bugs": {
+    "url": "https://github.com/mrabro/todo-scan/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
