@@ -5,7 +5,7 @@ A lightweight CLI tool that scans JavaScript and TypeScript files for `TODO:` an
 ## Installation
 
 ```bash
-npm install -g todo-scan
+npm install -g @mrabro/todo-scan
 ```
 
 ## Usage

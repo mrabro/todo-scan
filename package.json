@@ -1,5 +1,5 @@
 {
-  "name": "todo-scan",
+  "name": "@mrabro/todo-scan",
   "version": "1.0.0",
   "description": "CLI tool to scan JS/TS files for TODO and FIXME comments",
   "type": "commonjs",
